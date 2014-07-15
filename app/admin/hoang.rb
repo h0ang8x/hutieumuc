@@ -1,4 +1,5 @@
 ActiveAdmin.register Hoang do
+  permit_params 
 
   
   # See permitted parameters documentation:
